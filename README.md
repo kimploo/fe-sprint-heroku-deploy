@@ -1,2 +1,2 @@
-# fe-sprint-vercel-deploy
-test repo for deploying vercel based frontend web app
+# fe-sprint-heroku-deploy
+test repo for deploying heroku based frontend web app
