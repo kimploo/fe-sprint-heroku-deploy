@@ -1,0 +1,29 @@
+{
+  "name": "fe-sprint-vercel-deploy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:codestates/fe-sprint-vercel-deploy.git",
+  "author": "Hong Shik Branden Kim <kimploo@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "^5.0.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
